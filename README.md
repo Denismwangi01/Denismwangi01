@@ -1,4 +1,4 @@
-# Hi! I'm [Your Name] 👋  
+# Hi! I'm Denis Mwangi 👋  
 
 ## About Me 🎓  
 Welcome to my GitHub! I'm a **student Computer Science student at Chuka University** with a passion for **data science** and **artificial intelligence**. I'm just starting my journey, and I'm excited to learn how to use **data** to solve real-world problems, particularly in **business**, **Healthcare**,**Natural Language**.  
