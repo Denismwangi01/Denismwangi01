@@ -1,48 +1,42 @@
-Hi there! 👋 I'm [Denis Mwangi]
-🎓 About Me
+About Me 🎓
+Welcome to my GitHub! I'm a first-year Computer Science student at Chuka University with a passion for data science and artificial intelligence. I'm just starting my journey, and I'm excited to learn how to use data to solve real-world problems, particularly in finance and business.
 
-Computer Science student at Chuka University
-Aspiring Data Scientist
-Passionate about AI and Data Analytics
+What I'm Working On Now 🚀
+🌟 Learning Python (my first programming language!)
+📊 Starting my first data science projects
+📚 Taking online courses in data science and AI
+🧮 Strengthening my math skills for data science
+What I Love Learning About 💡
+🧠 Data Science fundamentals
+🤖 How AI and Machine Learning work
+📈 Analyzing stock market data
+📊 Visualizing data with cool graphs
+🔍 Teaching computers to learn (Machine Learning basics)
+My School Journey 📚
+🎓 First-year Computer Science student at Chuka University
+🛠️ Focus: Building a solid foundation to become a data scientist
+🧮 Learning: Basic coding, math, and data analysis skills
+My Goals for This Year 🎯
+🐍 Master Python as my first programming language
+📈 Learn to analyze and visualize data effectively
+💡 Build a portfolio of cool, beginner-friendly projects
+🤝 Connect with other students passionate about data
+🗂️ Start creating a standout GitHub portfolio
+Tools I'm Learning to Use 🛠️
+🐍 Python (for coding and data analysis)
+💻 GitHub (for saving and showcasing my work)
+📊 Excel (for organizing and analyzing data)
+📚 Pandas (for data manipulation)
+📝 Jupyter Notebooks (for interactive coding and visualizations)
+Let's Connect! 🤝
+I'm always looking to:
 
-🌱 Currently Learning
-
-Programming Fundamentals
-Data Structures & Algorithms
-Python Programming
-Statistics for Data Science
-
-💡 Interests
-
-Data Science
-Machine Learning
-Artificial Intelligence
-Data Visualization
-Big Data Analytics
-
-🛠️ Tools & Technologies
-Learning:
-
-Python 🐍
-SQL
-Jupyter Notebooks
-Git & GitHub
-
-📚 Current Academic Focus
-
-Building strong programming foundations
-Exploring data science concepts
-Developing problem-solving skills
-Understanding mathematical concepts for ML/AI
-
-🎯 Goals
-
-Master data analysis techniques
-Build a strong portfolio of data science projects
-Contribute to open-source projects
-Network with fellow data enthusiasts
-
-📫 How to Reach Me
+👋 Meet and collaborate with beginner coders
+📚 Join study groups and share resources
+🤝 Work on simple projects together
+💡 Learn from others and exchange ideas
+🌟 Share what I’m learning along the way!
+Feel free to reach out or explore my repositories. Let’s learn and grow together! 🚀
 
 Email: [sand338@gmail.com]
 Whatsapp: [https://wa.me/c/254768022630]
