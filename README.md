@@ -1,7 +1,7 @@
 # Hi! I'm [Your Name] 👋  
 
 ## About Me 🎓  
-Welcome to my GitHub! I'm a **first-year Computer Science student at Chuka University** with a passion for **data science** and **artificial intelligence**. I'm just starting my journey, and I'm excited to learn how to use **data** to solve real-world problems, particularly in **finance** and **business**.  
+Welcome to my GitHub! I'm a **student Computer Science student at Chuka University** with a passion for **data science** and **artificial intelligence**. I'm just starting my journey, and I'm excited to learn how to use **data** to solve real-world problems, particularly in **business**, **Healthcare**,**Natural Language**.  
 
 ---
 
@@ -16,14 +16,14 @@ Welcome to my GitHub! I'm a **first-year Computer Science student at Chuka Unive
 ## 💡 What I Love Learning About  
 - 🧠 **Data Science fundamentals**  
 - 🤖 **How AI and Machine Learning work**  
-- 📈 **Analyzing stock market data**  
+- 📈 **Analyzing  data**  
 - 📊 **Visualizing data** with cool graphs  
 - 🔍 **Teaching computers to learn** (Machine Learning basics)  
 
 ---
 
 ## 📚 My School Journey  
-- 🎓 **First-year Computer Science student** at Chuka University  
+- 🎓 **A Computer Science student** at Chuka University  
 - 🛠️ **Focus**: Building a solid foundation to become a **data scientist**  
 - 🧮 **Learning**: Basic coding, math, and data analysis skills  
 
