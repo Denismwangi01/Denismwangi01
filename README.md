@@ -58,8 +58,8 @@ I'm always looking to:
 Feel free to reach out or explore my repositories. Let’s learn and grow together! 🚀  
 
 
--Email: sand338@gmail.com
--Whatsapp: https://wa.me/c/254768022630
+- Email: sand338@gmail.com
+- Whatsapp: https://wa.me/c/254768022630
 
 
 
