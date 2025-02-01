@@ -58,7 +58,7 @@ I'm always looking to:
 Feel free to reach out or explore my repositories. Let’s learn and grow together! 🚀  
 
 
-- Email: sand338@gmail.com
+- IG: https://www.instagram.com/rootcode96?utm_source=qr&igsh=M2d3dHM3eG45Mmdm
 - Whatsapp: https://wa.me/c/254768022630
 
 
