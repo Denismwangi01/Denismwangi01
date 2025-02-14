@@ -1,35 +1,5 @@
 # 💫 About Me:
-I'm a student at Chuka University doing Computer Science with a passion for data science and artificial intelligence. I'm just starting my journey, and I'm excited to learn how to use data to solve real-world problems, particularly in business, Healthcare,Natural Language.
-
-## 🚀 What I'm Working On Now  
-- 🌟 **Learning Python** (my first programming language!)  
-- 📊 Starting my **first data science projects**  
-- 📚 Taking **online courses** in data science and AI  
-- 🧮 Strengthening my **math skills** for data science
-
-## 💡 What I Love Learning About  
-- 🧠 **Data Science fundamentals**  
-- 🤖 **How AI and Machine Learning work**  
-- 📈 **Analyzing  data**  
-- 📊 **Visualizing data** with cool graphs  
-- 🔍 **Teaching computers to learn** (Machine Learning basics)  
-
-## 📚 My School Journey  
-- 🎓 **A Computer Science student** at Chuka University  
-- 🛠️ **Focus**: Building a solid foundation to become a **data scientist**  
-- 🧮 **Learning**: Basic coding, math, and data analysis skills  
-
----
-
-## 🎯 My Goals for This Year  
-- 🐍 **Master Python** as my first programming language  
-- 📈 Learn to **analyze and visualize data** effectively  
-- 💡 Build a portfolio of **cool, beginner-friendly projects**  
-- 🤝 Connect with other students passionate about data  
-- 🗂️ Start creating a standout **GitHub portfolio**  
-
----
-
+I'm a Computer Science student at Chuka University passionate about data science and AI, currently focused on learning Python, developing data analysis and visualization skills, and working on beginner-friendly projects. I love exploring the fundamentals of machine learning and using data to solve real-world problems in business, healthcare, and natural language processing, while continuously building a strong foundation in coding and math.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rootcode96?utm_source=qr&igsh=M2d3dHM3eG45Mmdm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eb1.51417.24@student.chuka.ac.ke) 
